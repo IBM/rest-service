@@ -1,6 +1,6 @@
 # Rest service
 
-generic rest service
+generic rest service for qotd application
 
 ## Getting started
 
